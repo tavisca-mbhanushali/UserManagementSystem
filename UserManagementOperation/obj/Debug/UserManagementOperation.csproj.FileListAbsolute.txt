@@ -1,0 +1,16 @@
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\ClassLibrary1\UserManagementOperation\obj\Debug\UserManagementOperation.csprojResolveAssemblyReference.cache
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\ClassLibrary1\UserManagementOperation\bin\Debug\UserManagementOperation.dll
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\ClassLibrary1\UserManagementOperation\bin\Debug\UserManagementOperation.pdb
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\ClassLibrary1\UserManagementOperation\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\ClassLibrary1\UserManagementOperation\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\ClassLibrary1\UserManagementOperation\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\ClassLibrary1\UserManagementOperation\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\ClassLibrary1\UserManagementOperation\obj\Debug\UserManagementOperation.dll
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\ClassLibrary1\UserManagementOperation\obj\Debug\UserManagementOperation.pdb
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\ClassLibrary1\UserManagementOperation\bin\Debug\UserManagementOperation.dll.config
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\ClassLibrary1\UserManagementOperation\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\ClassLibrary1\UserManagementOperation\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\ClassLibrary1\UserManagementOperation\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\ClassLibrary1\UserManagementOperation\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\ClassLibrary1\UserManagementOperation\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\mbhanushali\documents\visual studio 2015\Projects\ClassLibrary1\UserManagementOperation\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
